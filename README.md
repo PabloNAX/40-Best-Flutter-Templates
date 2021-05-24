@@ -1,4 +1,4 @@
-# 40-Best-Flutter-Templates
+# Best-Flutter-Templates
 ## **What is a Flutter and how does it work?**
 
 **Flutter** is a young but very promising platform that has already attracted the attention of large companies such as Google, ebay, BMW, NUbank, Alibaba Group and lots of others. This platform is interesting for its simplicity comparable to the development of web applications, and the speed of work on a par with native applications. High application performance and development speed is achieved through several features:
